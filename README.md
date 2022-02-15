@@ -1,2 +1,2 @@
 # sample_flutter
-sample for flutter
+sample flutter
